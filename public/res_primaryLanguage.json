@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Bargains of the Lost",
+        "startDate": "09/2021",
+        "description": "201 Level Development of Text based trivia game where the user is presented with a series of questions and has to get a certain amount correct to win the game. Built with VS Code, Git, GitHub, Miro, Trello, HTML, CSS, JavaScript, featuring innerHTML, local storage, CSS animation.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "./images/ProjectEX1.JPG",
+          "./images/ProjectEX2.JPG"
         ],
         "url": "",
         "technologies": [
