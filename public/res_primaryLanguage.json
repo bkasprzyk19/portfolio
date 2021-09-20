@@ -18,20 +18,20 @@
           "./images/ProjectEX1.JPG",
           "./images/ProjectEX2.JPG"
         ],
-        "url": "",
+        "url": "https://ravencl-w.github.io/ravenclaw/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+          // {
+          //   "class": "devicon-angularjs-plain",
+          //   "name": "Angular"
+          // },
+          // {
+          //   "class": "devicon-typescript-plain",
+          //   "name": "TypeScript"
+          // },
+          // {
+          //   "class": "devicon-csharp-plain",
+          //   "name": "C#"
+          // }
         ]
       },
       {
